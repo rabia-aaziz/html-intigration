@@ -24,7 +24,7 @@ body,html{
 
 .main-section
 {
-    height:500px;
+    height:auto;
     padding: 1em;
     text-align: center;
     background-image: url('images/main-banner-bg.jpg');
